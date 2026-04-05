@@ -7,8 +7,3 @@ ratings_filtered.csv
 recipes_filtered.csv
 .vscode/
 kaggle.json"
-# Ignore datasets
-data/*.csv
-data/*.zip
-data/*.gz
-data/*.pkl
