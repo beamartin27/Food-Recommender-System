@@ -2,4 +2,7 @@
 shuyangli94/
 __pycache__/
 .ipynb_checkpoints/
-kaggle.json"
+kaggle.json
+ratings_filtered.csv
+recipes_filtered.csv
+.vscode/
