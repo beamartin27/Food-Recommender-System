@@ -3,3 +3,8 @@ shuyangli94/
 __pycache__/
 .ipynb_checkpoints/
 kaggle.json"
+# Ignore datasets
+data/*.csv
+data/*.zip
+data/*.gz
+data/*.pkl
